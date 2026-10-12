@@ -1,70 +1,24 @@
 # Foldnine
 
-### AI Systems That Work For You.
+### n8n and AI automations that keep running after the demo.
 
-We build AI-powered systems that automate real business workflows.
-
-From finding and researching prospects to processing information, connecting tools, and executing repetitive tasks — Foldnine turns manual work into intelligent automation.
+Foldnine is Uroš Orolicki, working from Serbia for small teams in the region and beyond. I build the workflow, the AI steps a person approves, and the infrastructure under them, then run it like infrastructure: monitored, backed up, and recoverable.
 
 ---
 
-## What We Build
+## What I build
 
-**AI Agents**
-Systems that can research, reason, and take action.
+- **Automations:** n8n workflows that move data between the tools a team already uses, with AI steps where they help and a human sign-off where it matters.
+- **Back-office for accounting and webshops:** orders, invoices and documents that stop being retyped; Serbian e-invoicing and e-otpremnica ([who must, and from when](https://foldnine.dev/sr/e-otpremnica/)).
+- **DevOps under it:** Docker, Postgres, backups with restore drills, monitoring and alerting.
 
-**Business Automation**
-Automated workflows that eliminate repetitive operational work.
+## Built and running
 
-**AI Sales**
-AI-powered prospecting, research, qualification, and outreach workflows.
+- **AI Sales:** my own outbound pipeline: research, qualification and drafts, with a person approving every first message. [How it is built](https://foldnine.dev/work/ai-sales/)
+- **SiteOps:** website monitoring for agencies: checks, incidents that keep the evidence, alerts, and monthly client reports. Free during the beta. [siteops.foldnine.dev](https://siteops.foldnine.dev) · [check any site, no account](https://siteops.foldnine.dev/check)
 
-**Custom Software**
-Practical software built around the way your business actually works.
+## Working with me
 
----
+Describe what is slow or repetitive in two or three sentences. You get a written answer with a price within one working day. Everything runs in writing, in Serbian or English.
 
-## Current Projects
-
-### AI Sales
-
-An AI-powered sales automation system designed to handle the repetitive parts of outbound sales.
-
-**Research → Find → Qualify → Automate → Human Approval**
-
-Built with a focus on real-world automation, observability, and human control.
-
-→ [Explore the project](https://github.com/Foldnine/ai-sales)
-
----
-
-## Our Approach
-
-We don't build AI for the sake of adding AI.
-
-We build systems that:
-
-* solve measurable business problems
-* automate real workflows
-* integrate with existing tools
-* keep humans in control where it matters
-* are built to run reliably in production
-
----
-
-## Technology
-
-AI · Automation · Agents · Python · Docker · PostgreSQL · Redis · n8n · APIs · Cloud Infrastructure
-
----
-
-## Let's Build
-
-Have a repetitive process that should be automated?
-
-**[foldnine.dev](https://foldnine.dev)**
-
----
-
-**Foldnine**
-*AI Systems That Work For You.*
+**[foldnine.dev](https://foldnine.dev)** · uros@foldnine.dev
