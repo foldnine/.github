@@ -1,9 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foldnine/.github/main/profile/logo-dark.png">
-    <img alt="Foldnine" src="https://raw.githubusercontent.com/foldnine/.github/main/profile/logo-light.png" height="72">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foldnine/.github/main/profile/logo-dark.svg">
+    <img alt="Foldnine" src="https://raw.githubusercontent.com/foldnine/.github/main/profile/logo-light.svg" height="72">
   </picture>
 </p>
+
+<h1 align="center">Foldnine</h1>
 
 <h3 align="center">n8n and AI automations that keep running after the demo.</h3>
 
