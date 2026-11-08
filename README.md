@@ -34,7 +34,7 @@ An AI-powered sales automation system designed to handle the repetitive parts of
 
 Built with a focus on real-world automation, observability, and human control.
 
-→ [Explore the project](https://github.com/Foldnine/ai-sales)
+→ [Explore the project](https://github.com/foldnine/ai-sales-machine)
 
 ---
 
