@@ -5,43 +5,28 @@
   </picture>
 </p>
 
-<h1 align="center">Foldnine</h1>
+# FoldNine
 
-<h3 align="center">n8n and AI automations that keep running after the demo.</h3>
+We build tools for teams that look after other people's websites.
 
-<p align="center">
-  <a href="https://foldnine.dev">foldnine.dev</a> · <a href="mailto:uros@foldnine.dev">uros@foldnine.dev</a>
-</p>
+Agencies and freelancers keep dozens of client sites running. We help them find out when something breaks before the client does.
 
----
+## Products
 
-Foldnine is a small automation studio from Serbia, working with small teams in the region and beyond. We build the workflow, the AI steps a person approves, and the infrastructure under them. Then we run it like infrastructure: monitored, backed up, and recoverable.
+**[SiteOps](https://siteops.foldnine.dev)**
+Monitoring for every client site in one place: uptime, response time, SSL, DNS, APIs and broken links. An incident opens only after two failures in a row, confirmed from a second location, and the evidence (status codes, headers, certificate, timings) is kept with it.
 
-## What we build
+**[AfterGreen](https://aftergreen.foldnine.dev)**
+A green pipeline only means the deploy finished. AfterGreen checks that the site actually works afterwards, using contracts for HTTP endpoints and PostgreSQL that live in your repo.
+Available as a CLI and as a GitHub Action: [foldnine/aftergreen](https://github.com/foldnine/aftergreen), [foldnine/aftergreen-action](https://github.com/foldnine/aftergreen-action).
 
-### Automations
-n8n workflows that move data between the tools a team already uses, with AI steps where they help and a human sign-off where it matters.
+## Client work
 
-### Back-office for accounting and webshops
-Orders, invoices and documents that stop being retyped. Includes Serbian e-invoicing and e-otpremnica ([who must, and from when](https://foldnine.dev/sr/e-otpremnica/)).
+We also build and run websites for small businesses, and we add automation when a client needs it.
 
-### The infrastructure under it
-Docker, Postgres, backups with restore drills, monitoring and alerting.
+- DMV Garage
+- Marković Kop
 
-## Built and running
+## Contact
 
-### AI Sales
-Our own outbound pipeline: research, qualification and drafts, with a person approving every first message. [How it is built](https://foldnine.dev/work/ai-sales/)
-
-### SiteOps
-Website monitoring for agencies: checks, incidents that keep the evidence, alerts, and monthly client reports. Free during the beta.
-
-[siteops.foldnine.dev](https://siteops.foldnine.dev) · [Check any site, no account needed](https://siteops.foldnine.dev/check)
-
-## Working with us
-
-Describe what is slow or repetitive in two or three sentences. You get a written answer with a price within one working day. Everything runs in writing, in Serbian or English.
-
-**[Get in touch](mailto:uros@foldnine.dev)**
-
-<sub>Founded by [Uroš Orolicki](https://github.com/urosorolicki).</sub>
+[foldnine.dev](https://foldnine.dev)
